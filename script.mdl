@@ -1,0 +1,15 @@
+push
+move 400 0 -100
+rotate y 40
+box 0 200 0 50 200 50
+push
+move -175 225 0
+rotate z -20
+box 0 50 0 220 50 50
+push
+rotate z 40
+move -100 0 0
+box 0 50 0 125 50 50
+sphere -70 45 25 40
+display
+save lamp.png
